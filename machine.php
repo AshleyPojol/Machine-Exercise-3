@@ -1,3 +1,6 @@
+    <!-- Ashley Joy Pojol -->
+    <!-- Angelo Danreic Villafor -->
+
 <!DOCTYPE html>
 <html>
 <head>
